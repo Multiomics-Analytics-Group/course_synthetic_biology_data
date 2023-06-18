@@ -16,11 +16,27 @@ Leveraging Existing Biological Data and Making Sense of it
 
 ### Biological Databases
 
+MimeDB
+STRING
+INTACT
+Mgnify
+PRIDE
+GNPS
+AlphaFoldDB
+
 ### Getting Data
 
-### Using Data - Networks
+APIs
+Formats
+
+
+### Using and Analysing Data - Networks
+
+Gephi
 
 ### Sharing Data
+
+
 
 ## References
 
@@ -35,3 +51,5 @@ Leveraging Existing Biological Data and Making Sense of it
 - [Automating the design-build-test-learn cycle towards next-generation bacterial cell factories](https://www.sciencedirect.com/science/article/pii/S187167842300002X) Nicolás Gurdo; Daniel C. Volke; Douglas McCloskey; Pablo Iván Nikel *New Biotechnology*
 
 - [Nine quick tips for analyzing network data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007434) Vincent Miele; Catherine Matias; Stéphane Robin; Stéphane Dray *PLOS Computational Biology*
+
+- [Sharing biological data: why, when, and how](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14067) Samantha L. Wilson; Gregory P. Way; Wout Bittremieux; Jean-Paul Armache; Melissa A. Haendel; Michael M. Hoffman *FEBS Letters*
