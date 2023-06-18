@@ -53,3 +53,8 @@ Gephi
 - [Nine quick tips for analyzing network data](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007434) Vincent Miele; Catherine Matias; Stéphane Robin; Stéphane Dray *PLOS Computational Biology*
 
 - [Sharing biological data: why, when, and how](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14067) Samantha L. Wilson; Gregory P. Way; Wout Bittremieux; Jean-Paul Armache; Melissa A. Haendel; Michael M. Hoffman *FEBS Letters*
+
+- [The role of ontologies in biological and biomedical research: a functional perspective](https://academic.oup.com/bib/article/16/6/1069/226068?login=false) Robert Hoehndorf; Paul N. Schofield; Georgios V. Gkoutos *Briefings in Bioinformatics*
+
+- [The OBO Foundry: coordinated evolution of ontologies to support biomedical data integration](https://www.nature.com/articles/nbt1346) Barry Smith; Michael Ashburner; Cornelius Rosse; Jonathan Bard; William Bug; Werner Ceusters; Louis J Goldberg; Karen Eilbeck; ...; Richard H Scheuermann, Nigam Shah, Patricia L Whetzel & Suzanna Lewis *Nature Biotechnology*
+
