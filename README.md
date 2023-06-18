@@ -1,4 +1,6 @@
-# Leveraging Existing Biological Data and Making Sense of it
+# Synthetic Biology Data 
+
+Leveraging Existing Biological Data and Making Sense of it
 
 ## Abstract
 
