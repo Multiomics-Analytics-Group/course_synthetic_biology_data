@@ -4,38 +4,33 @@ Leveraging Existing Biological Data and Making Sense of it
 
 ## Abstract
 
-## Objective
+## Objectives
+
+- Show
+
+  - The value of **Open** and **standardised data**
+
+  - How to **generate** and **find** these data
+
+  - How to **access** and **use** them
+
+  - Some **examples**
 
 ## Content
 
-### Open Science
-
-### FAIR Data
-
-### Ontologies
-
-### Biological Databases
-
-MimeDB
-STRING
-INTACT
-Mgnify
-PRIDE
-GNPS
-AlphaFoldDB
-
-### Getting Data
-
-APIs
-Formats
-
-
-### Using and Analysing Data - Networks
-
-Gephi
-
-### Sharing Data
-
+- Introduction
+- No data, no fun
+- Objectives / material
+- Open science
+- FAIR data
+- Ontologies
+- Data sources - databases
+- Working with these databases - GUI/API
+- Sharing data
+- Graphs/Networks
+- Tools
+- GraphML
+- QA
 
 
 ## References
