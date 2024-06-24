@@ -28,6 +28,8 @@ Leveraging Existing Biological Data and Making Sense of it
 - Working with these databases - GUI/API
 - Sharing data
 - Graphs/Networks
+- Knowledge Graphs
+- Use case
 - Tools
 - GraphML
 - QA
